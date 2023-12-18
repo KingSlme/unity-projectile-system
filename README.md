@@ -1,4 +1,4 @@
-# unity-shooting-system
+# unity-projectile-system
 Projectile system for Unity 3D.
 
 ## Key Features
